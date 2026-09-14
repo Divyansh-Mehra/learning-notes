@@ -9,3 +9,4 @@ daily log of what i'm learning while building towards a cloud infrastructure rol
 - **2026-09-11**: set up linkedin and x will start uploading progress there too , also learned about mv(move) and mkdir(make directory)
 - **2026-09-12**: learned about rm(remove),find,whatis,alias,exit
 - **2026-09-13**: learned about stdout (standard out) didnt do much today.
+- **2026-09-14**: learned about stdin, stdrr, pipe and tee, env(enviorment)
