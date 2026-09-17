@@ -12,3 +12,4 @@ daily log of what i'm learning while building towards a cloud infrastructure rol
 - **2026-09-14**: learned about stdin, stdrr, pipe and tee, env(enviorment)
 - **2026-09-15**: learned about cut and paste commands
 - **2026-09-16**: learned about the head command and did 3 levels of bandit over the wire wargames to test my linux skills till now
+- **2026-09-17**: did 2 levels of overthewire on the 5th level now
