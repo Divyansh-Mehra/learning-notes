@@ -15,4 +15,5 @@ daily log of what i'm learning while building towards a cloud infrastructure rol
 - **2026-09-17**: did 2 levels of overthewire on the 5th level now
 - **2026-09-18**: only did 1 level of overthewire
 - **2026-09-19**: learned about sort, join and split command and revisited previous overthewire levels and revised previous commands.
-- **2026-09-20**: learned about the tr(translate) command
+- **2026-09-22**: learned about the tr(translate) command
+- **2026-09-23**: learned about the uniq(unique), wc, nl and grep commands
