@@ -21,3 +21,4 @@ daily log of what i'm learning while building towards a cloud infrastructure rol
 - **2026-09-25**: learned about regex(regular expression) and text editors
 - **2026-09-26**: built a project for a --------hackathon----------
 - **2026-09-27**: revised previous commands on linux
+- **2026-09-28**: did 1 level of overthewire
