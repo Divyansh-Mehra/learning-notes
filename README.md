@@ -23,3 +23,4 @@ daily log of what i'm learning while building towards a cloud infrastructure rol
 - **2026-09-27**: revised previous commands on linux
 - **2026-09-28**: did 1 level of overthewire
 - **2026-09-29**: revised and did another level of overthewire
+- **2026-10-1** : revised and researched projects on hackathons 
