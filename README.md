@@ -27,3 +27,4 @@ daily log of what i'm learning while building towards a cloud infrastructure rol
 - **2026-10-3** : did one level of overthwire
 - **2026-10-6** : learned a bit about vim
 - **2026-10-7** : learned more on vim and did one overthewire level
+- **2026-10-8** : did one level of overthewire
