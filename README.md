@@ -30,3 +30,4 @@ daily log of what i'm learning while building towards a cloud infrastructure rol
 - **2026-10-8** : did one level of overthewire
 - **2026-10-9** : learned about vim search patterns
 - **2026-10-10**: did one level of overthewire
+- **2026-10-11**: revised previous commands 
