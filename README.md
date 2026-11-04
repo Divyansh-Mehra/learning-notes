@@ -34,4 +34,4 @@ daily log of what i'm learning while building towards a cloud infrastructure rol
 - **2026-10-12**: did one level of overthewire
 - **2026-10-21**: basically revised everything ive done till now
 - **2026-10-22** - **2026-11-3**: till now learned tail and vim (opening files, search with / ? n N), and reached level 12 on overthewire using find, grep, sort | uniq -u, strings, base64 -d and tr (ROT13)
-- **2026-10-23**:
+- **2026-11-4**: started on a project 
