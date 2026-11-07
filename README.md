@@ -36,3 +36,4 @@ daily log of what i'm learning while building towards a cloud infrastructure rol
 - **2026-10-22** - **2026-11-3**: till now learned tail and vim (opening files, search with / ? n N), and reached level 12 on overthewire using find, grep, sort | uniq -u, strings, base64 -d and tr (ROT13)
 - **2026-11-4**: started on a project
 - **2026-11-6**: created my linux-networking-lab repo, set up Git and GitHub CLI, troubleshot VirtualBox Secure Boot issues, switched to KVM, and started downloading Ubuntu Server ISO.
+- **2026-11-07**: built an ubuntu server VM with KVM and virt-manager, connected to it from my laptop using ssh. learned adduser, usermod -aG, id, su, and the difference between a sudo user and a normal user (least privilege)
