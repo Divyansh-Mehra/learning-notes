@@ -37,3 +37,4 @@ daily log of what i'm learning while building towards a cloud infrastructure rol
 - **2026-11-4**: started on a project
 - **2026-11-6**: created my linux-networking-lab repo, set up Git and GitHub CLI, troubleshot VirtualBox Secure Boot issues, switched to KVM, and started downloading Ubuntu Server ISO.
 - **2026-11-07**: built an ubuntu server VM with KVM and virt-manager, connected to it from my laptop using ssh. learned adduser, usermod -aG, id, su, and the difference between a sudo user and a normal user (least privilege)
+- **2026-11-10**: nerated an ed25519 SSH key pair, installed the public key on my VM, and disabled password login so the server is key-only. learned that sshd reads config files in alphabetical order (first value wins), and to run pwd before git add
