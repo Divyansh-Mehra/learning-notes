@@ -1,4 +1,4 @@
-s# learning-notes
+# learning-notes
 daily log of what i'm learning while building towards a cloud infrastructure role
 ## Format 
 - **Date**: one or two sentences on what learned
@@ -39,3 +39,4 @@ daily log of what i'm learning while building towards a cloud infrastructure rol
 - **2026-11-07**: built an ubuntu server VM with KVM and virt-manager, connected to it from my laptop using ssh. learned adduser, usermod -aG, id, su, and the difference between a sudo user and a normal user (least privilege)
 - **2026-11-10**: generated an ed25519 SSH key pair, installed the public key on my VM, and disabled password login so the server is key-only. learned that sshd reads config files in alphabetical order (first value wins), and to run pwd before git add
 - **2026-11-11**: configured a UFW firewall on my Ubuntu VM: default deny incoming, allowed only SSH (22) and HTTP (80), and learned why rule order matters (enable it before allowing SSH and you lock yourself out). github.com/Divyansh-Mehra/linux-networking-lab
+- **2026-11-12**: installed Nginx on my Ubuntu VM and served my own static site from /var/www/labsite. learned how sites-available and sites-enabled work (symlinks switch sites on and off), to run nginx -t before reloading, and that reload applies config without dropping connections. github.com/Divyansh-Mehra/linux-networking-lab
